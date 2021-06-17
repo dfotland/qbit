@@ -15,8 +15,9 @@ This repo includes jupyter notebooks I built to help me understand the concepts.
 - python -m venv env
 - env\scripts\activate.bat (windows) or env/scripts/activate.sh (linux)
 - python -m pip install --upgrade pip
-- pip install jupyterlab
-- pip install qiskit[visualization]  (if using zsh on linux: pip install 'qiskit[visualization]')
+- python -m pip install jupyterlab
+- python -m pip install numpy
+- python -m pip install qiskit[visualization]  (if using zsh on linux: python -m pip install 'qiskit[visualization]')
 
 ### To run a notebook,
 - jupyter-lab (starts the server and launchers a browser tab)
