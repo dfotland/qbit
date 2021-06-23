@@ -24,5 +24,7 @@ This repo includes jupyter notebooks I built to help me understand the concepts.
 - open a notebook
 
 ### Linear Algebra
+This notebook collects the definitions and formulas I found in the reference books, to help me study.
 
 ### Deutsch
+This notebook has code and diagrams, using Qiskit, to help me understand Deutsch's algorithm
